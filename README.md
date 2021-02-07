@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack web developer from Indonesia ID</h3>
 
 [![Website](https://img.shields.io/website?label=feytodewangga.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://feytodewangga.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/feytodewangga?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/feytodewangga?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## I'm a Fullstack Developer!!
 
@@ -93,8 +93,10 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-<br>
-<br>
+br />
+<br />
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feyto81&show_icons=true&locale=en&layout=compact" alt="feyto81" /></p>
 
