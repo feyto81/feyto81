@@ -16,11 +16,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feyto81&label=Profile%20views&color=0e75b6&style=flat" alt="feyto81" /> </p>
 
-- 🌱 I’m currently learning **Javascript, Python**
+- 🌱 I’m currently learning **Flutter, Node Js**
 
-- 👨‍💻 All of my projects are available at [https://hiskia.dev](https://hiskia.dev)
+- 👨‍💻 All of my projects are available at [https://feytodewangga.com](https://feytodewangga.com)
 
-- 📝 I regularly write articles on [https://hiskia.app](https://hiskia.app)
+- 📝 I regularly write articles on [https://feytodewangga.com](https://feytodewangga.com)
 
 - 💬 Ask me about **laravel, codeignite, spring boot**
 
