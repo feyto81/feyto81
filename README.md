@@ -61,6 +61,15 @@
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feyto81&show_icons=true&locale=en&layout=compact" alt="hiskiapp" />
+</p>
+
+<br />
+<br />
+
+---
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary> -->
@@ -96,7 +105,5 @@
 <br />
 <br />
 
-### Languages and Tools:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feyto81&show_icons=true&locale=en&layout=compact" alt="feyto81" /></p>
 
