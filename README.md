@@ -93,7 +93,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="feyto81 GitHub Stats" src="https://github-readme-stats.feyto81.vercel.app/api?username=feyto81&show_icons=true&hide_border=true" />
+  <img align="left" alt="feyto81 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feyto81&show_icons=true&theme=radical" />
 
 </details>
 
