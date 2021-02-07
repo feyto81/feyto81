@@ -90,7 +90,12 @@
   <summary>:zap: GitHub Stats</summary> -->
 <br />
 <br />
+<h3>
+<p align="left">
   <img align="left" alt="feyto81 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feyto81&show_icons=true&theme=radical" />
+</p>
+</h3>
+
 <!-- 
 </details> -->
 
