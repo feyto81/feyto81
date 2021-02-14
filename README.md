@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [https://feytodewangga.com](https://feytodewangga.com)
 
-- 💬 Ask me about **laravel, codeignite, spring boot**
+- 💬 Ask me about **Laravel, codeigniter, Spring boot**
 
 - 📫 How to reach me **feyto81@gmail.com**
 
