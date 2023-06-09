@@ -89,6 +89,13 @@
 <!--   <img align="left" alt="feyto81 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feyto81&show_icons=true&theme=radical" /> -->
                                                                                                                                                     <img align="left" alt="feyto81 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feyto81&theme=radical" />
 </p>
+
+</h3>
+<h3>
+<p align="left">
+<!--   <img align="left" alt="feyto81 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feyto81&show_icons=true&theme=radical" /> -->
+                                                                                                                                                    <img align="left" alt="feyto81 GitHub Stats" src="https://github-stats-alpha.vercel.app/api?username=feyto81&cc=000&tc=fff&ic=fff&bc=000" />
+</p>
 </h3>
 
 <!-- 
