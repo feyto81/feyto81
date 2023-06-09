@@ -88,9 +88,12 @@
 <br />
 <br />
 <br />
-<p align="left">
+<p align="center">
 <!--   <img align="left" alt="feyto81 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feyto81&show_icons=true&theme=radical" /> -->
-                                                                                                                                                    <img align="left" alt="feyto81 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feyto81&theme=radical" />
+                                                                            <a href="https://github.com/feyto81">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feyto81&theme=radical"/>
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=feyto81&cc=000&tc=fff&ic=fff&bc=000"/>
+</a>
 </p>
 
 </h3>
@@ -104,11 +107,7 @@
 <br />
 <br />
 <br />
-<p align="left">
-<!--   <img align="left" alt="feyto81 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feyto81&show_icons=true&theme=radical" /> -->
-                                                                                                                                                    <img align="left" alt="feyto81 GitHub Stats" src="https://github-stats-alpha.vercel.app/api?username=feyto81&cc=000&tc=fff&ic=fff&bc=000" />
-</p>
-</h3>
+
 
 <!-- 
 </details> -->
