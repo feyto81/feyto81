@@ -88,10 +88,10 @@
 <br />
 <br />
 <br />
-<p align="center">
+<p align="left">
 <!--   <img align="left" alt="feyto81 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feyto81&show_icons=true&theme=radical" /> -->
                                                                             <a href="https://github.com/feyto81">
-  <img height="180em" width="400px;" src="https://github-readme-stats.vercel.app/api?username=feyto81&theme=radical&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feyto81&theme=radical&show_icons=true"/>
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=feyto81&cc=000&tc=fff&ic=fff&bc=000"/>
 </a>
 </p>
@@ -105,7 +105,7 @@
 <!-- 
 </details> -->
 
-[website]: https://feytodewangga.com
+<!-- [website]: https://feytodewangga.com
 [youtube]: https://youtube.com/feyto81
 [instagram]: https://instagram.com/feyto_dewangga
 [whatsapp]: https://api.whatsapp.com/send?phone=6288228740010
@@ -114,12 +114,14 @@
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
 
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyto81&langs_count=20" alt="feyto81" />
 </p>
-
+<p>
+Last Edited : 2023-06-09 By FEYTO FRIZKY DEWANGGA
+</p>
 
 
