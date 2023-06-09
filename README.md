@@ -88,8 +88,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 <p align="left">
 <!--   <img align="left" alt="feyto81 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feyto81&show_icons=true&theme=radical" /> -->
                                                                                                                                                     <img align="left" alt="feyto81 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feyto81&theme=radical" />
@@ -134,8 +132,11 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyto81&langs_count=8" alt="feyto81" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyto81&langs_count=20" alt="feyto81" />
 </p>
 
 
