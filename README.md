@@ -141,8 +141,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 <p>
 Last Edited : 2023-06-09 By FEYTO FRIZKY DEWANGGA
 </p>
