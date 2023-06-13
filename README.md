@@ -29,10 +29,10 @@
 - 📄 Know about my experiences [https://feytodewangga.com](https://feytodewangga.com)
 
 - ⚡ Fun fact **First solve the problem, then write the code**
-
+<!-- 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="feyto Spotify Playing" width="350" />](https://open.spotify.com/playlist/3JWvl4y4UcgyRlePIrovq4)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="feyto Spotify Playing" width="350" />](https://open.spotify.com/playlist/3JWvl4y4UcgyRlePIrovq4) -->
 
 
 
@@ -89,7 +89,7 @@
 <p align="left">
 <!--   <img align="left" alt="feyto81 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feyto81&show_icons=true&theme=radical" /> -->
                                                                             <a href="https://github.com/feyto81">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feyto81&theme=radical&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feyto81&theme=radical"/>
   <br/><br/>
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=feyto81&cc=000&tc=fff&ic=fff&bc=000"/>
 </a>
