@@ -89,9 +89,9 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-f91b1b?style=for-the-badge&logo=git&logoColor=white)
-![Codeigniter](https://img.shields.io/badge/Codeigniter-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-5AC2F0?style=for-the-badge&logo=git&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-f91b1b?style=for-the-badge&logo=laravel&logoColor=white)
+![Codeigniter](https://img.shields.io/badge/Codeigniter-F05032?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-5AC2F0?style=for-the-badge&logo=flutter&logoColor=white)
 
 <br/>
 
