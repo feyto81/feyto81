@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://feyto81.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://feyto81.com">FEYTO FRIZKY DEWANGGA</a></b>
         </samp>
 </h3>
 
@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>Indonesia</b> 」
     <br>
     <br>
   </samp>
@@ -67,7 +67,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: feyto81.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: feyto81@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/feyto81/feyto81/issues)
 
 </p>
