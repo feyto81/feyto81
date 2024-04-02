@@ -94,6 +94,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-5AC2F0?style=for-the-badge&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-085970?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgresql-376695?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jquery](https://img.shields.io/badge/Jquery-0868AC?style=for-the-badge&logo=jquery&logoColor=white)
 
 <br/>
 
