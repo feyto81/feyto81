@@ -96,7 +96,7 @@
 ![PostgreSQL](https://img.shields.io/badge/Postgresql-376695?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jquery](https://img.shields.io/badge/Jquery-0868AC?style=for-the-badge&logo=jquery&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Sql_Server-BF4D4D?style=for-the-badge&logo=sqlserver&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Springboot-BF4D4D?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Springboot-6DBF4B?style=for-the-badge&logo=springboot&logoColor=white)
 
 <br/>
 
