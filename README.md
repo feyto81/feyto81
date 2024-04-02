@@ -91,6 +91,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-f91b1b?style=for-the-badge&logo=git&logoColor=white)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-5AC2F0?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
