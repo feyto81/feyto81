@@ -97,6 +97,7 @@
 ![Jquery](https://img.shields.io/badge/Jquery-0868AC?style=for-the-badge&logo=jquery&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Sql_Server-BF4D4D?style=for-the-badge&logo=sqlserver&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DBF4B?style=for-the-badge&logo=springboot&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-33B9F6?style=for-the-badge&logo=dart&logoColor=white)
 
 <br/>
 
