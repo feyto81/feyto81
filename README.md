@@ -95,6 +95,7 @@
 ![MySQL](https://img.shields.io/badge/Mysql-085970?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgresql-376695?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jquery](https://img.shields.io/badge/Jquery-0868AC?style=for-the-badge&logo=jquery&logoColor=white)
+![Sqlserver](https://img.shields.io/badge/Sqlserver-BF4D4D?style=for-the-badge&logo=sqlserver&logoColor=white)
 
 <br/>
 
