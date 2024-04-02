@@ -92,6 +92,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-f91b1b?style=for-the-badge&logo=laravel&logoColor=white)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-F05032?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-5AC2F0?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/Mysql-5AC2F0?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/>
 
