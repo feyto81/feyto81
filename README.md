@@ -21,7 +21,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; HEY THERE!, I AM
                 <b><a target="_blank" href="https://feyto81.com">FEYTO FRIZKY DEWANGGA</a></b>
         </samp>
 </h3>
